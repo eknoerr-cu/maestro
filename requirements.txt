@@ -1,0 +1,9 @@
+langchain-core
+langchain-anthropic
+langgraph
+anthropic
+langchain
+typing-extensions
+jupyter
+voila
+ipywidgets

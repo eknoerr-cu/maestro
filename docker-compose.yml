@@ -1,0 +1,11 @@
+services:
+  ai-cyber-agent:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8866:8866"
+    stdin_open: true
+    tty: true
+    volumes:
+      - ./src:/app/src
