@@ -2,7 +2,7 @@
 # Exploit: Buffer Overflow Attack
 import struct
 
-target_program = "{target_program}"
+target_program = "buf_overflow.py"
 buffer_size = {buffer_size}
 return_address = {return_address}
 
