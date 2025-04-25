@@ -32,4 +32,5 @@ This repository demonstrates a **Retrieval-Augmented Generation (RAG)** pipeline
    localhost:8866
    ```
 
-For an example walkthrough of how MAESTRO works: [Go to Docs](./tutorial/THM-Rootme-Walkthrough.md)
+
+For an example walkthrough of how MAESTRO works: [Go to THM-Rootme-Walkthrough](./tutorial/THM-Rootme-Walkthrough.md)
