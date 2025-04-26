@@ -52,7 +52,7 @@ This repository demonstrates a **Retrieval-Augmented Generation (RAG)** pipeline
 
 ## CyberRecon
    - This project was created to compete in the 2025 US Cyber Command CyberRecon competition.
-   - The paper covering our research can be located here: [CyberRecon Paper](MAESTRO_Reasearch.pdf)
+   - The paper covering our research can be located here: [CyberRecon Paper](.MAESTRO_Research.pdf)
 
 ## File Descriptions
    - src/capec.csv 
